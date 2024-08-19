@@ -1,0 +1,3 @@
+../Core/Src/EEPROM.c:9:6:initEEPROM	16	static
+../Core/Src/EEPROM.c:16:9:readEEPROM	40	static
+../Core/Src/EEPROM.c:34:9:writeEEPROM	72	dynamic

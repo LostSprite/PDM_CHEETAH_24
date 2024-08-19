@@ -1,0 +1,3 @@
+../Core/Src/EEPROM.c:9:6:initEEPROM	1
+../Core/Src/EEPROM.c:16:9:readEEPROM	3
+../Core/Src/EEPROM.c:34:9:writeEEPROM	3
